@@ -77,7 +77,7 @@ All tests use scripted or fake providers, so they run offline.
 A scheduled workflow checks the pinned dependencies once a week at a random time, bumps them when the tests still pass and records the result in [MAINTENANCE.md](MAINTENANCE.md).
 
 <!-- maintenance:start -->
-**Last maintenance:** 2026-10-23 · Updated anthropic 2.1.0 → 2.2.0 · tests ✅ 12 passed
+**Last maintenance:** 2026-10-27 · Updated anthropic 2.2.0 → 2.3.0, openai 3.37.0 → 3.40.0 · tests ✅ 12 passed
 <!-- maintenance:end -->
 
 ## License
